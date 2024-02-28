@@ -1,0 +1,8 @@
+
+//para no dar mantenimiento a los paquetes de node_modules, 
+//para volver a instalar (reconstruir) los nuevos modulos en consola npm install
+node_modules/
+
+//para ignorar todos los archivos que se encuentran en salida y sean de tipo .txt
+salida/*.txt 
+
